@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874640193419",
+    "project_id": "hora-e61ce",
+    "storage_bucket": "hora-e61ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874640193419:android:273565865b1c2b4d02e18e",
+        "android_client_info": {
+          "package_name": "com.riateams.hora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874640193419-ak8ut8r2dq01tub3fhj5kevdsvv9udlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYRexDFJ2eSoNtNFzDHTOE1vMZylUQG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874640193419-ak8ut8r2dq01tub3fhj5kevdsvv9udlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
